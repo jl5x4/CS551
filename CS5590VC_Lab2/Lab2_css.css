@@ -1,0 +1,22 @@
+#map_canvas {
+    height:600px;
+    width:600px;
+}
+
+#weatherModule {
+    background:lightgray;
+    height:250px;
+    width:3000px;
+    border: 2px dashed #ccc;
+    padding: 2em;
+}
+#currentConditions {
+    float: left;
+}
+#weatherModule {
+    padding: 1em;
+}
+#currentIcon {
+    float: left;
+    margin: 0 .75em;
+}
